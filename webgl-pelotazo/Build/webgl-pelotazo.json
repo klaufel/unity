@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "webgl-pelotazo.data.unityweb",
+"asmCodeUrl": "webgl-pelotazo.asm.code.unityweb",
+"asmMemoryUrl": "webgl-pelotazo.asm.memory.unityweb",
+"asmFrameworkUrl": "webgl-pelotazo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
